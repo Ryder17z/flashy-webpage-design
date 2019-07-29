@@ -1,0 +1,24 @@
+* { padding: 0; margin: 0; }
+
+body {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 13px;
+}
+
+p {
+	padding: 10px;
+}
+
+#wrapper { 
+	margin: 0 auto;
+	background: #FFFFFF;
+	width: 92%;
+}
+
+#content { 
+	float: left;
+	color: #333;
+	height:100%;
+	width: 100%;
+	display: inline;
+}
